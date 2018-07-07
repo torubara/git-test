@@ -10,3 +10,15 @@
   display: flex;
 
 }
+
+.promo {
+  padding: 10px;
+
+}
+ h1 {
+  color: red;
+ }
+
+.promo__inner {
+  text-align: center;
+}
